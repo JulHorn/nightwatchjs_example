@@ -1,1 +1,3 @@
-# nightwatchjs_example
+# Testcafe example
+
+npm install -g testcafe

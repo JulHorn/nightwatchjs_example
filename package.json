@@ -1,0 +1,10 @@
+{
+  "name": "Testcafe_Example",
+  "version": "1.0.0",
+  "main": "test.js",
+  "private": true,
+  "scripts": {
+    "start": "testcafe chrome tests -e"
+  },
+  "dependencies": {}
+}
