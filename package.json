@@ -4,7 +4,7 @@
   "main": "test.js",
   "private": true,
   "scripts": {
-    "start": "testcafe chrome tests -e"
+    "start": "testcafe chrome tests -e -S -s screenshots"
   },
   "dependencies": {}
 }
