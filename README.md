@@ -1,6 +1,6 @@
 # Testcafe example
 
-A simple (Testcafe)[https://testcafe.devexpress.com] example project I created to make myself more familiar with the framework.
+A simple [Testcafe](https://testcafe.devexpress.com) example project I created to make myself more familiar with the framework.
 
 # Using this Project
 
